@@ -1,0 +1,170 @@
+{
+  "title": "Ang Bagong Daan ng Krus",
+  "introduction": {
+    "opening_song": {
+      "title": "Pambungad na Awit",
+      "lyrics": "Hirap at pagdurusa ang kanyang nadarama / Ang sugat sa katawan pag ibig ang dahilan / Dugong pumapatak tumbas ay kaligtasan / Si Kristo anak ng Diyos nag alay ng buhay. / Bawat sugat ni Kristo ay may pahayag / Ang sugat sa ulo'y pang unawang taglay / Sa dibdib ay pag ibig sa kamay ay pagdamay / Sa paa na laging nakasubaybay."
+    },
+    "opening_prayer": "Panginoong Hesukristo, habang kami'y nagtitipon dito ngayon upang pagnilayan ang iyong Misteryong Pampaskuwa, pagkalooban mo kaming lahat ng biyaya na kasuklaman ang kasalanan tulad ng iyong ginawa, at gugulin ang aming buhay para sa aming kapwa ayon sa iyong halimbawa. Sa gayon, kami ay maaaring makibahagi hindi lamang sa iyong paghihirap, kundi maging sa iyo ring Muling Pagkabuhay. Ikaw na nabubuhay at naghahari magpakailanman. Amen!"
+  },
+  "stations": [
+    {
+      "id": 1,
+      "title": "Ang Unang Istasyon: Ang Huling Hapunan",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "1 Cor 11: 23-26",
+        "text": "Ang Panginoong Hesus, noong gabing siya'y ipagkanulo ay dumampot ng tinapay, nagpasalamat, at pinagpira-piraso ito, at sinabi, 'Ito ang aking katawan na inihahandog para sa inyo.' Gayon din naman, matapos maghapunan ay hinawakan niya ang kalis at sinabi, 'Ang kalis na ito ang bagong tipan na pinagtitibay ng aking dugo. Tuwing iinumin ninyo ito, gawin ninyo bilang pag-aalaala sa akin.' Sapagkat tuwing kakain kayo ng tinapay na ito at iinom sa kalis na ito ay ipinahahayag ninyo ang kamatayan ng Panginoon, hanggang sa muling pagparito niya."
+      },
+      "reflection": "Ang larawan ng Huling Hapunan ang naghahanda sa atin upang harapin ang hirap at sakit ng Krus patungo sa luwalhati ng Pagkabuhay. Ang sakripisyo ni Hesus sa krus ay ang sakripisyo sa Banal na Eukaristiya. Ang Eukaristiya ang nagbibigay lakas sa atin habang pinapasan natin ang mga krus ng ating buhay at nagdudulot sa atin ng pag-asa para sa hinaharap.",
+      "prayer": "Panginoong Hesus, minahal mo kami nang lubus-lubusan. Minahal mo kami hanggang sa katapusan. Ikaw ay nananatili sa Eukaristiya upang maging pagkain at inuming nagbibigay buhay na walang hanggan. Nananatili ka sa aming piling upang maging patuloy na palatandaan ng nagliligtas na pananatili ng Diyos sa lahat ng sandali ng aming buhay. Patawarin mo kami, Panginoon sa lahat ng sandali na kami ay hindi nagpapahalaga sa iyong paghahandog sa amin ng iyong sarili at sa iyong mapagmahal na pananahan sa Banal na Eukaristiya.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 2,
+      "title": "Ang Ikalawang Istasyon: Ang Pagdurusa ni Hesus sa Halamanan",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Lu 22: 39-45",
+        "text": "Gaya ng kanyag kinaugalian, umalis si Hesus at nagtungo sa Bundok ng mga Olibo; at sumama ang mga alagad. Pagdating doo'y sinabi niya sa kanila, 'Manalangin kayo, nang hindi kayo madaig ng tukso.' Lumayo siya sa kanila nang may isang pukol ng bato, saka lumuhod at nanalangin. 'Ama,' wika niya, 'kung maaari'y ilayo mo sa akin ang kalis na ito. Gayunma'y hindi ang kalooban ko ang masunod, kundi ang kalooban mo.' Tigib ng hapis, siya'y nanalangin nang lalong taimtim; tumulo sa lupa ang kanyang pawis na animo'y malalaking patak ng dugo. Tumindig siya pagkapanalangin at lumapit sa kanyang mga alagad. Naratnan niyang natutulog ang mga ito dahil sa tindi ng dalamhati."
+      },
+      "reflection": "Sa katauhan ni Kristo ng Getsemani na nakikibaka at puno ng hapis nakikita natin ang ating mga sarili tuwing dumaraan din tayo sa gabi ng sakit, ng pagkawalay sa mga kaibigan, ng katahimikan ng Diyos. Sinasabi na si Hesus ay 'maghihirap hanggang sa wakas ng panahon: hindi tayo puwedeng magtulug-tulugan ngayon sapagkat naghahanap siya ng kasama at karamay' tulad ng ilan sa atin na naghihirap dito sa lupa.",
+      "prayer": "Panginoong Hesus, noong gabing iyon sa Getsemani, kinuha mo sa iyong sarili ang lahat ng aming mga kasalanan at pinasan ang aming lahat na mga dusa. Maraming salamat sa iyong pag-ako sa lahat ng aming mga kasalanan upang kami ay mapalaya. Turuan mo kaming manalangin nang lalong taimtim sa gitna ng aming pagdurusa.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 3,
+      "title": "Ang Ikatlong Istasyon: Si Hesus sa Harap ng Sanedrin",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Mt 26: 57, 59, 62-66",
+        "text": "Dinala si Hesus sa bahay ni Caifas, ang pinakapunong saserdote. Naghahanap ang mga punong saserdote at ang buong Sanedrin ng saksing magpaparatang ng hindi totoo laban kay Hesus upang siya'y maipapatay. Tumayo ang pinakapunong saserdote at sinabi sa kanya, 'Wala ka bang isasagot sa mga paratang na ito?' Ngunit hindi umimik si Hesus. Kaya't sinabi sa kanya ng pinakapunong saserdote, 'Iutos ko sa iyo sa ngalan ng Diyos na buhay: Sabihin mo sa amin kung ikaw ang Kristo, ang Anak ng Diyos.' Sumagot si Hesus, 'Kayo na ang nagsabi.' Dahil dito'y hinapak ng pinakapunong saserdote ang kanyang damit at sinabi, 'Ito'y kalapastanganan! Wala na tayong kailangan pang mga saksi! Ano ang pasya ninyo?' Sumagot sila, 'Dapat siyang mamatay!'"
+      },
+      "reflection": "Narito si Hesus sa harap ng mga taong dapat sanang magtanggol sa kanya. Dinanas niya ang pait ng maling paratang at ang kawalan ng katarungan. Madalas din tayong humusga sa iba nang hindi alam ang buong katotohanan.",
+      "prayer": "Panginoong Hesus, ikaw ang Katotohanan ngunit ikaw ay hinatulan ng mga bulaan. Turuan mo kaming maging tapat sa lahat ng oras at huwag kailanman magsawalang-kibo sa harap ng kawalang-katarungan.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 4,
+      "title": "Ang Ikaapat na Istasyon: Ang Paghagupit at Pagpuputong ng Koronang Tinik",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Mt 27: 26-30",
+        "text": "Ipinahagupit ni Pilato si Hesus at ibinigay sa kanila upang ipako sa krus. Siya'y dinala ng mga kawal ng gobernador sa pretoryo, at nagtipon ang buong batalyon sa paligid niya. Hinubaran nila siya at sinuutan ng isang balabal na pulang-pula. Gumawa sila ng koronang tinik at ipinatong sa kanyang ulo, at pinahawak sa kanyang kanang kamay ang isang tambo. At palibak siyang niluhud-luhuran at binati: 'Mabuhay ang Hari ng mga Judio!' Siya'y pinagluluraan; kinuha nila ang tambo at ipinalo sa kanyang ulo."
+      },
+      "reflection": "Ang katawan ni Hesus ay naging isang malaking sugat. Ang bawat hagupit ay kabayaran sa ating mga pansariling kalayawan at kasalanan ng katawan. Ang koronang tinik ay simbolo ng ating pagmamataas.",
+      "prayer": "Panginoong Hesus, patawarin mo kami sa aming mga kasalanang nagdulot sa iyo ng ganitong hirap. Linisin mo ang aming mga puso at isipan upang maging karapat-dapat kaming maglingkod sa iyo.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 5,
+      "title": "Ang Ikalimang Istasyon: Tinanggap ni Hesus ang Kanyang Krus",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Jn 19: 14-17",
+        "text": "Sinabi ni Pilato sa mga Judio, 'Narito ang inyong hari!' Ngunit sumigaw sila, 'Alisin siya! Alisin! Ipako sa krus!' Itinanong ni Pilato, 'Ipapako ko ba sa krus ang inyong hari?' Sumagot ang mga punong saserdote, 'Wala kaming hari kundi ang Cesar!' Kaya't ibinigay siya sa kanila ni Pilato upang ipako sa krus. At lumabas si Hesus na pasan ang sariling krus patungo sa dakong tinatawag na 'Dako ng Bungo'—na sa wikang Hebreo ay Golgota."
+      },
+      "reflection": "Yinakap ni Hesus ang krus nang may pagmamahal dahil alam niyang ito ang instrumento ng ating kaligtasan. Ang krus na ating pinapasan ay hindi parusa, kundi pagkakataon upang makiisa sa kanyang pagliligtas.",
+      "prayer": "Panginoong Hesus, bigyan mo kami ng lakas na pasanin ang aming mga krus sa bawat araw nang hindi nagrereklamo. Tulungan mo kaming makita ang iyong bakas sa bawat pagsubok na aming kinakaharap.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 6,
+      "title": "Ang Ikaanim na Istasyon: Si Hesus ay Nadapa sa Ilalim ng Krus",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Is 53: 4-6",
+        "text": "Tunay ngang kinuha niya ang ating mga kahinaan, at dinala ang ating mga kalungkutan; gayon ma'y itinuring natin siyang hinampas, sinaktan ng Diyos at pinahirapan. Ngunit siya'y nasugatan dahil sa ating mga pagsalangsang, siya'y nabugbog dahil sa ating mga kasamaan; ang parusang naghatid sa atin ng kapayapaan ay nasa kanya, at sa pamamagitan ng kanyang mga latay ay gumaling tayo."
+      },
+      "reflection": "Ang pagkadapa ni Hesus ay nagpapakita ng kanyang ganap na pagpapakababa. Bagaman siya ay Diyos, naging marupok siya tulad natin. Ang bawat pagkadapa natin sa kasalanan ay lalong nagpapabigat sa kanyang pasan.",
+      "prayer": "Panginoon, patawarin mo kami sa aming madalas na pagkahulog sa kasalanan. Huwag mong itulot na kami ay manatiling nakadapa; itindig mo kami at akayin patungo sa iyong liwanag.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 7,
+      "title": "Ang Ikapitong Istasyon: Tinulungan ni Simon na Taga-Cirene si Hesus",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Lu 23: 26",
+        "text": "Nang inilalabas na nila si Hesus, sinalubong nila ang isang lalaking galing sa bukid, si Simon na taga-Cirene. Ipinapasan nila sa kanya ang krus at pinasunod kay Hesus."
+      },
+      "reflection": "Si Simon ay napilitan lamang noong una, ngunit ang pagtulong niya kay Hesus ay naging simula ng kanyang pagbabago. Tayo rin ay tinatawag na maging 'Simon' sa ating kapwa na nahihirapan.",
+      "prayer": "Panginoong Hesus, gawin mo kaming laging handang tumulong sa mga nangangailangan. Turuan kaming makita ang iyong mukha sa bawat taong humihingi ng aming kalinga.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 8,
+      "title": "Ang Ikawalong Istasyon: Nakasalubong ni Hesus ang mga Babae ng Jerusalem",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Lu 23: 27-28, 31",
+        "text": "Sinusundan si Hesus ng maraming tao, kabilang ang mga babaing nananambitan at umiiyak dahil sa kanya. Nilingon sila ni Hesus at sinabi, 'Mga kababaihan ng Jerusalem, huwag ninyo akong iyakan. Ang iyakan ninyo'y ang inyong sarili at ang inyong mga anak. Sapagkat kung ganito ang ginagawa sa kahoy na sariwa, ano naman ang gagawin sa tuyo?'"
+      },
+      "reflection": "Pinaaalalahanan tayo ni Hesus na ang tunay na pagsisisi ay hindi lamang emosyon kundi pagbabago ng buhay. Hindi sapat ang umiyak sa kanyang hirap; dapat nating talikuran ang mga dahilan ng kanyang pagdurusa.",
+      "prayer": "Panginoon, bigyan mo kami ng pusong tunay na nagsisisi. Tulungan mo kaming ituwid ang aming mga mali at gabayan ang aming mga pamilya sa landas ng kabutihan.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 9,
+      "title": "Ang Ikasiyam na Istasyon: Si Hesus ay Ipinako sa Krus",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Lu 23: 33-35",
+        "text": "Nang dumating sila sa dakong tinatawag na Bungo, ipinako nila si Hesus sa krus. Ipinako rin ang dalawang tulisan, isa sa kanan at isa sa kaliwa. Sinabi ni Hesus, 'Ama, patawarin mo sila, sapagkat hindi nila nalalaman ang kanilang ginagawa.' At nag-alay sila ng palabunutan upang paghati-hatian ang kanyang damit. Ang mga tao'y nakatayo roon at nanonood."
+      },
+      "reflection": "Sa bawat pukpok ng martilyo, ipinako ni Hesus ang ating mga kasalanan. Sa kabila ng matinding sakit, ang tanging lumabas sa kanyang bibig ay kapatawaran. Siya ang huwaran ng ganap na pag-ibig.",
+      "prayer": "Panginoong Hesus, sa pamamagitan ng iyong mga sugat, pagalingin mo kami. Turuan mo kaming magpatawad sa mga nagkasala sa amin, tulad ng pagpapatawad mo sa amin.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 10,
+      "title": "Ang Ikasampung Istasyon: Ang Nagtitikang Tulisan",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Lu 23: 39-43",
+        "text": "Minura siya ng isa sa mga tulisang nakapako sa tabi niya, 'Hindi ba ikaw ang Kristo? Iligtas mo ang iyong sarili, pati na kami!' Ngunit pinagsabihan siya ng kanyang kasama, 'Hindi ka ba natatakot sa Diyos? Ikaw ay pinarurusahan ding tulad niya! Matuwid lang na parusahan tayo nang ganito dahil sa ating mga gawa; ngunit ang taong ito'y walang ginawang masama.' At sinabi niya, 'Hesus, alalahanin mo ako pagdating mo sa iyong kaharian.' Sumagot si Hesus, 'Sinasabi ko sa iyo: ngayon din ay makakasama kita sa Paraiso.'"
+      },
+      "reflection": "Ang nagtitikang tulisan ay nagpakita na hindi pa huli ang lahat para magbalik-loob. Ang pag-asa ay laging naroon basta't marunong tayong kumilala sa ating mga pagkakamali.",
+      "prayer": "Panginoong Hesus, alalahanin mo rin kami. Sa oras ng aming kamatayan, sana'y marinig din namin ang iyong pangako ng Paraiso. Salamat sa iyong walang hanggang awa.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 11,
+      "title": "Ang Ikalabing-isang Istasyon: Si Maria at si Juan sa Paanan ng Krus",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Jn 19: 25-27",
+        "text": "Nakatayo sa tabi ng krus ni Hesus ang kanyang ina at the kapatid nito na si Maria na asawa ni Cleofas, at si Maria Magdalena. Nang makita ni Hesus ang kanyang ina, at ang alagad na kanyang minamahal na nakatayo sa tabi nito, sinabi niya sa kanyang ina, 'Ina, narito ang iyong anak!' At sinabi niya sa alagad, 'Narito ang iyong ina!' Mula noon, sa bahay na ng alagad na ito nanirahan ang ina ni Hesus."
+      },
+      "reflection": "Ibinigay ni Hesus sa atin ang pinakamahalagang pag-aari niya bago siya pumanaw—ang kanyang sariling Ina. Si Maria ang ating kanlungan at tagapamagitan sa oras ng ating mga pagsubok.",
+      "prayer": "Salamat, Panginoon, sa pagbibigay mo sa amin kay Maria bilang aming Ina. Maria, aming Ina, tulungan mo kaming manatiling tapat sa iyong Anak hanggang sa dulo ng aming buhay.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 12,
+      "title": "Ang Ikalabindalawang Istasyon: Si Hesus ay Namatay sa Krus",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Lu 23: 44-46",
+        "text": "Nang mag-iikaanim na ng tanghali, nagdilim sa buong lupain hanggang sa ika-tatlo ng hapon. Nawalan ng liwanag ang araw; at ang tabing ng Templo ay nahati sa gitna. Sumigaw nang malakas si Hesus, 'Ama, sa mga kamay mo'y ipinagtatagubilin ko ang aking espiritu!' At pagkasabi nito, nalagot ang kanyang hininga."
+      },
+      "reflection": "Ang kamatayan ni Hesus ang rurok ng kanyang pagsunod sa Ama. Sa kanyang pagpanaw, nagkaroon tayo ng bagong buhay. Ang katahimikan ng krus ay ang pinakamalakas na sigaw ng pag-ibig ng Diyos.",
+      "prayer": "Panginoon, mamatay nawa sa amin ang lahat ng masamang hilig upang kami ay muling mabuhay para sa iyo lamang. Maraming salamat sa iyong pag-alay ng buhay para sa aming kaligtasan.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 13,
+      "title": "Ang Ikalabintatlong Istasyon: Si Hesus ay Inilibing",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Mt 27: 57-60",
+        "text": "Nang magtatakipsilim na, dumating ang isang mayamang taga-Arimatea, na ang ngala'y Jose; siya'y alagad din ni Hesus. Pumunta siya kay Pilato at hiningi ang bangkay ni Hesus. Iniutos naman ni Pilato na ibigay ito sa kanya. Kaya't kinuha ni Jose ang bangkay, binalot ng malinis na kayong lino, at inilagay sa sarili niyang bagong libingan na ipinaguhit niya sa bato. Pagkatapos, iginulong niya ang isang malaking bato sa pintuan ng libingan, saka umalis."
+      },
+      "reflection": "Ang libingan ay hindi ang dulo, kundi isang pansamantalang pahingahan. Sa dilim ng libingan, naghahanda ang liwanag ng muling pagkabuhay. Turuan tayong maghintay nang may pananampalataya sa gitna ng kadiliman.",
+      "prayer": "Panginoon, kahit sa oras ng kawalan ng pag-asa, manatili nawa kaming nagtitiwala sa iyong mga pangako. Patatagin mo ang aming pananalig na ang liwanag ay laging dumarating pagkatapos ng dilim.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    },
+    {
+      "id": 14,
+      "title": "Ang Ikalabing-apat na Istasyon: Ang Muling Pagkabuhay ni Hesus",
+      "common_response": "N: Sinasamba ka namin at pinasasalamatan, Panginoong Hesukristo. / B: Sapagkat sa pamamagitan ng iyong Mahal na Krus ay iniligtas mo ang sandaigdigan.",
+      "scripture": {
+        "reference": "Mt 28: 1-6",
+        "text": "Pagkaraan ng Araw ng Pamamahinga, madaling-araw ng unang araw ng sanlinggo, pumunta sa libingan si Maria Magdalena at ang isa pang Maria. Biglang lumindol nang malakas. Bumaba mula sa langit ang isang anghel ng Panginoon, iginulong ang bato, at naupo sa ibabaw nito. Sinabi ng anghel sa mga babae, 'Huwag kayong matakot; alam kong hinahanap ninyo si Hesus na ipinako sa krus. Wala na siya rito, sapagkat siya'y muling nabuhay gaya ng kanyang sinabi.'"
+      },
+      "reflection": "Ang muling pagkabuhay ang tagumpay ng buhay laban sa kamatayan, ng liwanag laban sa dilim. Ito ang sentro ng ating pananampalataya. Kung tayo ay namatay kasama ni Kristo, mabubuhay din tayong kasama niya.",
+      "prayer": "Panginoong Hesus, salamat sa pagbibigay sa amin ng bagong pag-asa. Tulungan mo kaming mabuhay bilang mga saksi ng iyong muling pagkabuhay sa bawat araw. Ikaw na nabubuhay at naghahari magpakailanman. Amen.\n\nAma Namin…\nAba, Ginoong Maria…\nLuwalhati…"
+    }
+  ],
+  "conclusion": {
+    "title": "Pangwakas na Panalangin",
+    "text": "Makapangyarihan at walang hanggang Diyos, namatay at matagumpay na muling nabuhay ang Iyong Bugtong na Anak upang iligtas kami sa aming mga kasalanan. Sa Iyong kabutihan, muli Mo kaming buhayin at pagkalooban ng Iyong Espiritu upang kami ay makapamuhay bilang Iyong mga tapat na anak. Sa pamamagitan ni Kristo na aming Panginoon. Amen."
+  }
+}
