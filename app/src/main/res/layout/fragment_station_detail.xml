@@ -27,7 +27,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:clipToPadding="false"
-        android:paddingBottom="88dp"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
         <LinearLayout
@@ -36,26 +35,15 @@
             android:orientation="vertical"
             android:padding="24dp">
 
-            <com.google.android.material.card.MaterialCardView
-                android:id="@+id/cv_image_container"
+            <ImageView
+                android:id="@+id/iv_detail_station"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="24dp"
-                app:cardCornerRadius="16dp"
-                app:cardElevation="0dp"
-                app:strokeColor="@color/outline"
-                app:strokeWidth="1dp">
-
-                <ImageView
-                    android:id="@+id/iv_detail_station"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:adjustViewBounds="true"
-                    android:maxHeight="360dp"
-                    android:scaleType="fitCenter"
-                    tools:src="@drawable/station_1" />
-
-            </com.google.android.material.card.MaterialCardView>
+                android:adjustViewBounds="true"
+                android:maxHeight="360dp"
+                android:scaleType="fitCenter"
+                tools:src="@drawable/station_1" />
 
             <TextView
                 android:id="@+id/tv_detail_title"
@@ -154,21 +142,25 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:layout_marginBottom="40dp"
+                android:layout_marginBottom="24dp"
                 android:textAppearance="?attr/textAppearanceBodyLarge"
                 android:textColor="@color/onSurface"
                 tools:text="Panginoong Hesus, minahal mo kami nang lubus-lubusan..." />
 
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_done"
+                style="@style/Widget.Material3.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:padding="16dp"
+                android:text="Mark as Done"
+                app:cornerRadius="12dp"
+                app:icon="@drawable/ic_done"
+                app:iconGravity="textStart" />
+
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
-
-    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
-        android:id="@+id/fab_done"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom|center_horizontal"
-        android:layout_margin="16dp"
-        android:text="Mark as Done"
-        app:icon="@drawable/ic_done" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

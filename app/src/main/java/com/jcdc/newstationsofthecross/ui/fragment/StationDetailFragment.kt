@@ -60,7 +60,7 @@ class StationDetailFragment : Fragment() {
     }
 
     private fun setupFab() {
-        binding.fabDone.setOnClickListener {
+        binding.btnDone.setOnClickListener {
             currentItem?.let {
                 viewModel.toggleStationCompleted(it.title)
             }
@@ -71,13 +71,13 @@ class StationDetailFragment : Fragment() {
         viewModel.completedTitles.observe(viewLifecycleOwner) { completedTitles ->
             val isDone = completedTitles.contains(currentItem?.title)
             if (isDone) {
-                binding.fabDone.text = "Completed"
-                binding.fabDone.setIconResource(R.drawable.ic_done)
-                binding.fabDone.extend()
+                binding.btnDone.text = "Mark as undone"
+                binding.btnDone.setIconResource(R.drawable.ic_done_circle)
+                binding.btnDone.setIconTintResource(R.color.success)
             } else {
-                binding.fabDone.text = "Mark as Done"
-                binding.fabDone.setIconResource(R.drawable.ic_done)
-                binding.fabDone.extend()
+                binding.btnDone.text = "Mark as Done"
+                binding.btnDone.setIconResource(R.drawable.ic_done)
+                binding.btnDone.setIconTintResource(R.color.onPrimary)
             }
         }
     }
@@ -87,7 +87,7 @@ class StationDetailFragment : Fragment() {
             is StationGridItem.IntroductionItem -> {
                 val intro = item.introduction
                 binding.toolbar.title = item.title
-                binding.cvImageContainer.visibility = View.VISIBLE
+                binding.ivDetailStation.visibility = View.VISIBLE
                 binding.ivDetailStation.setImageResource(R.drawable.conclusion)
                 binding.ivDetailStation.transitionName = "station_image_intro"
 
@@ -113,7 +113,7 @@ class StationDetailFragment : Fragment() {
             is StationGridItem.StationItem -> {
                 val station = item.station
                 binding.toolbar.title = station.title
-                binding.cvImageContainer.visibility = View.VISIBLE
+                binding.ivDetailStation.visibility = View.VISIBLE
                 binding.labelReflection.text = "PAGNINILAY"
                 binding.labelReflection.visibility = View.VISIBLE
                 binding.tvReflectionOrText.visibility = View.VISIBLE
@@ -144,7 +144,7 @@ class StationDetailFragment : Fragment() {
             is StationGridItem.ConclusionItem -> {
                 val conclusion = item.conclusion
                 binding.toolbar.title = conclusion.title
-                binding.cvImageContainer.visibility = View.VISIBLE
+                binding.ivDetailStation.visibility = View.VISIBLE
                 binding.ivDetailStation.setImageResource(R.drawable.conclusion)
                 binding.ivDetailStation.transitionName = "station_image_conclusion"
 

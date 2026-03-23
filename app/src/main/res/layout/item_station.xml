@@ -60,12 +60,12 @@
 
         <ImageView
             android:id="@+id/iv_done"
-            android:layout_width="24dp"
-            android:layout_height="24dp"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
             android:layout_gravity="top|end"
             android:layout_margin="8dp"
-            android:src="@drawable/ic_done"
-            android:tint="@color/primary"
+            android:src="@drawable/ic_done_circle"
+            app:tint="@color/success"
             android:visibility="gone"
             tools:visibility="visible" />
 
